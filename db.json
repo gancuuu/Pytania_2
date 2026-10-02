@@ -1,0 +1,27 @@
+[
+  {
+    "tytul": "Spotkanie zespołu",
+    "tresc": "Omówienie postępów projektu.",
+    "data": "2026-10-02"
+  },
+  {
+    "tytul": "Zakupy",
+    "tresc": "Kupić produkty na kolację.",
+    "data": "2026-10-03"
+  },
+  {
+    "tytul": "Trening",
+    "tresc": "Godzinny trening na siłowni.",
+    "data": "2026-10-04"
+  },
+  {
+    "tytul": "Wizyta u lekarza",
+    "tresc": "Kontrola i omówienie wyników.",
+    "data": "2026-10-05"
+  },
+  {
+    "tytul": "Nauka",
+    "tresc": "Powtórka materiału przed egzaminem.",
+    "data": "2026-10-06"
+  }
+]
