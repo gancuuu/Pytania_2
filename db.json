@@ -1,28 +1,54 @@
-[
-  {
-    "tytul": "Spotkanie zespołu",
-    "tresc": "Omówienie postępów projektu.",
-    "data": "2026-10-02"
-  },
-  {
-    "tytul": "Zakupy",
-    "tresc": "Kupić produkty na kolację.",
-    "data": "2026-10-03"
-  },
-  {
-    "tytul": "Trening",
-    "tresc": "Godzinny trening na siłowni.",
-    "data": "2026-10-04"
-  },
-  {
-    "tytul": "Wizyta u lekarza",
-    "tresc": "Kontrola i omówienie wyników.",
-    "data": "2026-10-05"
-  },
-  {
-    "tytul": "Nauka",
-    "tresc": "Powtórka materiału przed egzaminem.",
-    "data": "2026-10-06"
-  }
-]
-
+{
+  "pytania": [
+    {
+      "pytanie": "Co należy zrobić podczas spotkania zespołu?",
+      "odpowiedzi": [
+        "Omówić postępy projektu",
+        "Kupić produkty na kolację",
+        "Iść na siłownię",
+        "Powtórzyć materiał przed egzaminem"
+      ],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "Co należy kupić?",
+      "odpowiedzi": [
+        "Nowy komputer",
+        "Produkty na kolację",
+        "Książki",
+        "Sprzęt sportowy"
+      ],
+      "poprawna": 1
+    },
+    {
+      "pytanie": "Jak długo ma trwać trening?",
+      "odpowiedzi": [
+        "30 minut",
+        "45 minut",
+        "Godzinę",
+        "2 godziny"
+      ],
+      "poprawna": 2
+    },
+    {
+      "pytanie": "Co odbędzie się podczas wizyty u lekarza?",
+      "odpowiedzi": [
+        "Kontrola i omówienie wyników",
+        "Trening",
+        "Spotkanie zespołu",
+        "Zakupy"
+      ],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "Po co jest nauka?",
+      "odpowiedzi": [
+        "Aby przygotować się do treningu",
+        "Aby przygotować się do spotkania",
+        "Aby zrobić zakupy",
+        "Aby powtórzyć materiał przed egzaminem"
+      ],
+      "poprawna": 3
+    }
+  ]
+}
